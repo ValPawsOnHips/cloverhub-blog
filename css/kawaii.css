@@ -1,0 +1,38 @@
+body {
+    font-family: arial;
+    background-image: url('https://sirv.kawaiistarlight.online/website/images/background.png');
+    background-size: cover;
+    color: #fff4f4;
+    text-align: center;
+}
+
+nc {
+    font-family: arial;
+    color: #fff4f4;
+}
+
+h1 {
+    color: #00d2ff;
+}
+
+h2 {
+    color: #89cff0;
+}
+
+a {
+    color: #fff4f4;
+}
+
+a:hover {
+    color: #000b0b;
+}
+
+alert {
+    color: #ff2d00;
+    text-decoration: underline;
+}
+
+mono {
+    font-family: monospace;
+    color: #89cff0;
+}
